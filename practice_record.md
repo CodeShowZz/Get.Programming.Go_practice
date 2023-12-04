@@ -8,3 +8,5 @@
 | 4    | Experiment: random-dates.go | 简单           | 1/1            | 2023.11.23                 |
 | 5    | CAPSTONE: TICKET TO MARS    | 简单           | 1/1            | 2023.11.29                 |
 | 6    | Experiment: piggy.go        | 简单           | 1/1            | 2023.11.30                 |
+| 7    | Experiment: piggy.go        | 简单           | 1/1            | 2023.12.3                  |
+| 8    | Experiment: canis.go        | 简单           | 1/1            | 2023.12.4                  |
