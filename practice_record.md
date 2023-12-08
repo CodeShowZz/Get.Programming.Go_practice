@@ -12,3 +12,6 @@
 | 8    | Experiment: canis.go         | 简单           | 1/1            | 2023.12.4                  |
 | 9    | Experiment: caesar.go        | 简单           | 1/1            | 2023.12.6                  |
 | 9    | Experiment: international.go | 简单           | 1/1            | 2023.12.6                  |
+| 10   | Experiment: input.go         | 简单           | 1/1            | 2023.12.7                  |
+| 11   | Experiment: decipher.go      | 中等           | 1/1            | 2023.12.7                  |
+| 11   | Experiment: cipher.go        | 中等           | 1/1            | 2023.12.7                  |
