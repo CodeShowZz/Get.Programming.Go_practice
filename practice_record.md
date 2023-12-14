@@ -15,4 +15,6 @@
 | 10   | Experiment: input.go         | 简单           | 1/1            | 2023.12.7                  |
 | 11   | Experiment: decipher.go      | 中等           | 1/1            | 2023.12.7                  |
 | 11   | Experiment: cipher.go        | 中等           | 1/1            | 2023.12.7                  |
-| 12   | Experiment: function.go      | 简单           | 1/1            | 2023.12.12shshinian       |
+| 12   | Experiment: function.go      | 简单           | 1/1            | 2023.12.12                 |
+| 13   | Experiment: methods.go       | 简单           | 1/1            | 2023.12.13                 |
+| 14   | Experiment: calibrate.go     | 简单           | 1/1            | 2023.12.14                 |
